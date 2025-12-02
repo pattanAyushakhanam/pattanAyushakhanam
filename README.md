@@ -52,7 +52,7 @@
 - **Java Mini Projects** – OOP, loops, arrays, strings  
 - **React Projects** – Components, hooks  
 - **SQL Queries Collection** – Joins, subqueries, constraints
-- 
+
 👉 More projects coming soon!
 ---
 ### 🏆 Goal  
